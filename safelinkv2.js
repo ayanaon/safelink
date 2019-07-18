@@ -29,7 +29,7 @@ if(x=="5"){xxx="how-to-make-good-flyer.html"}
 if(x=="6"){xxx="reasons-why-youre-better-off-with.html"}
 if(x=="7"){xxx="is-office-junior-looking-after-your.html"}
 if(x=="8"){xxx="bringing-your-sales-potential-to-far.html"}
-if(x=="9"){xxx="https://www.upil.me/2019/07/today-we-write-stories-that-you-can.html"}
+if(x=="9"){xxx="today-we-write-stories-that-you-can.html"}
 a_to_ve[i].href="https://www.upil.me/2019/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
